@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Name : KIM SUBIN
+Name : KIM SUBIN<br>
 Email : subintoto@naver.com
 
 ### Current Skills
