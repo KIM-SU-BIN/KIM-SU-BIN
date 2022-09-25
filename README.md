@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-3DDC84?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
 <!--
 **KIM-SU-BIN/KIM-SU-BIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
