@@ -1,6 +1,11 @@
 ### Hi there 👋
 My name is SUBIN-KIM
 
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+
+
+
 <!--
 **KIM-SU-BIN/KIM-SU-BIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
